@@ -1,0 +1,4 @@
+[]
+[Term{word1=tietokone, word2=computer}]
+[Term{word1=apina, word2=monkey}, Term{word1=alla oleva, word2=below}, Term{word1=olut, word2=beer}]
+[Term{word1=apina, word2=monkey}, Term{word1=olut, word2=beer}, Term{word1=tietokone, word2=computer}]

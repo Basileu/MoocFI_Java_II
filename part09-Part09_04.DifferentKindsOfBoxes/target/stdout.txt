@@ -1,0 +1,6 @@
+Item{name=a, weight=0}
+Item{name=b, weight=0}
+Item{name=c, weight=0}
+Item{name=f, weight=0}
+elem was null
+Item{name=a, weight=1}
